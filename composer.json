@@ -1,0 +1,14 @@
+{
+    "name": "cjkim1005/cjfwns8520",
+    "description": "this is a test",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "cjkim1005",
+            "email": "jinzhejun8520@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
